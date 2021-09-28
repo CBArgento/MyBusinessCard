@@ -12,11 +12,12 @@ body {
     text-align: center;
 }
 
-.card {
+/*.card {
     margin: 0 auto; /* Added */
-    float: none; /* Added */
-    margin-bottom: 0px; /* Added */
+    /*float: none; /* Added */
+   /* margin-bottom: 0px; /* Added */
 }
+
 
 #icontext {
     text-align: left;
