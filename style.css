@@ -15,3 +15,7 @@ html {
     float: none; /* Added */
     margin-bottom: 0px; /* Added */
 }
+
+#icontext {
+    text-align: center;
+}
