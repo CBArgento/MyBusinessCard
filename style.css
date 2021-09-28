@@ -17,5 +17,9 @@ html {
 }
 
 #icontext {
-    text-align: center;
+    text-align: left;
+}
+
+#iconimg {
+    text-align: left;
 }
